@@ -4,7 +4,7 @@
 import java.io.PrintWriter;
 
 
-
+//update
 public class RandomInputgenerator {
 	public static void main(String[] args) throws Exception 
 	{
